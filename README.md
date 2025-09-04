@@ -34,10 +34,16 @@ Here are some ideas to get you started:
 #### Languages
 
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 [![](https://img.shields.io/badge/-CPP-critical?style=flat-square&logo=cplusplus)](https://en.cppreference.com)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+
+[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![Nix](https://img.shields.io/badge/Nix-5277C3.svg?&logo=NixOS&logoColor=white)](#)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifurther&layout=compact&hide=html,css)
 
