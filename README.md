@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 
 #### Platform&Tools
 
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![](https://img.shields.io/badge/Archlinux-Stable-blue?style=flat-square&logo=Archlinux)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/Gentoo-Stable-purple?style=flat-square&logo=Gentoo)](https://www.gentoo.org/)
 [![](https://img.shields.io/badge/Visual%20Studio%20%20-Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/get-windows-10)
 
@@ -34,8 +35,9 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/-CPP-critical?style=flat-square&logo=cplusplus)](https://en.cppreference.com)
-
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 
+[![Nix](https://img.shields.io/badge/Nix-5277C3.svg?&logo=NixOS&logoColor=white)](#)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifurther&layout=compact&hide=html,css)
 
