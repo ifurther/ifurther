@@ -38,6 +38,43 @@ enableRobotsTXT = true
     # icons: https://feathericons.com
     pre = "<span data-feather='github'></span>"
     post = ""
+
+  #[[menu.main]]
+    #identifier = "en"
+    #name = "English"
+    #url = "/en/"
+    #weight = 5
+  #[[menu.main]]	
+    #identifier = "zh-cn"
+    #name = "简体中文（中国）"
+    #url = "/zh-cn/"
+    #weight = 4
 	
   [params]
     togglePreviousAndNextButtons = true
+	defaultContentLanguageInSubdir = false
+    defaultContentLanguage = "zh-tw"
+
+  [languages]
+    [languages.en]
+      disabled = false
+      languageCode = ''
+      languageDirection = ''
+      languageName = ''
+      title = ''
+      weight = 1
+	  contentDir = 'content/en'
+	[languages.zh-tw]
+	  weight = 0
+	  languageName = "正體中文（台灣）"
+	  languageCode = "zh-tw"
+	  contentDir = 'content/zh-tw'
+	[languages.zh-cn]
+	  languageName = "简体中文（中国）"
+      languageCode = "zh-cn"
+	  weight = 3
+	  contentDir = 'content/zh-cn'
+	[languages.zh-hk]
+      languageName = "繁体中文（香港）"
+      languageCode = "zh-hk"
+	  weight = 2
