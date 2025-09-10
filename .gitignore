@@ -1,0 +1,14 @@
+# Hugo generated files
+/public/
+/resources/_gen/
+/data/
+/archetypes/
+
+# Local development files
+/.hugo_build.lock
+/.DS_Store
+/Thumbs.db
+
+# Any other files you want to ignore
+# For example, if you have a custom script directory:
+# /scripts/
